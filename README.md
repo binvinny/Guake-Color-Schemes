@@ -51,6 +51,6 @@ to specify the corresponding theme, e.g., __./guake_theme.sh tin__ specifies the
 
 ### Note
 
-* It has been validated on Ubuntu, Linux Mint and Antergos platforms. 
+* It has been validated on such platforms: Ubuntu, Linux Mint, Antergos, Solus. 
 * If you test it on other platforms, please tell me by creating an issue.
 
